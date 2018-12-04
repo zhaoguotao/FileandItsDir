@@ -1,0 +1,2 @@
+python fileParser.py
+pause
